@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+package-lock.json
+package.json
+yarn.lock
+public/index.html
+src/App.css
+src/App.js
+src/Components/Navbar.jsx
+src/Images/kosmedi-logo.jpg
+src/Images/logo.png
